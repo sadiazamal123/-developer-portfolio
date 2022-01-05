@@ -45,5 +45,7 @@ Sourcode and Resources for CSE 412 Course
 _________
 ![developpers img](https://user-images.githubusercontent.com/61104968/147234630-e5d9aade-8f66-41e3-9a52-f25e91aa39e7.jpg)
 ![projects img](https://user-images.githubusercontent.com/61104968/147234658-7006fc76-6f51-4f73-a0fc-a4774b07baaa.jpg)
+![account](https://user-images.githubusercontent.com/61104968/148231339-8512758e-5c31-4d46-8ffe-ccd59483ebb5.png)
+![message](https://user-images.githubusercontent.com/61104968/148232034-ee6d47d6-8d0e-44ed-8c9f-9a6680cd54fd.png)
 
 
