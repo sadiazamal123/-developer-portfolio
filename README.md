@@ -38,6 +38,9 @@ Sourcode and Resources for CSE 412 Course
 * Messages
 * Reviews
 * Password reset
+# Debugging process_________
+* debugg py file
+* add breakpoint
 # Overviews![login image](https://user-images.githubusercontent.com/61104968/147235024-5086d47d-c540-49ee-a6bd-f65f6485cf7a.png)
 _________
 ![developpers img](https://user-images.githubusercontent.com/61104968/147234630-e5d9aade-8f66-41e3-9a52-f25e91aa39e7.jpg)
